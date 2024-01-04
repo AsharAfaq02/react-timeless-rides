@@ -1,6 +1,6 @@
 import React from "react"
 function MyGarage(){
-  return <h1>My Garage</h1>
-}
+  return <h2>Garage</h2>;
+} 
 
 export default MyGarage
